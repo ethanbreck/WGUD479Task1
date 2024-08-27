@@ -14,20 +14,9 @@ This project page is to fufill part of task 1 for D479
 I need to look at usability testing content to ensure that I have tasks available for people to test for task 2 as well.
 
 ## Persona Profile:
+For those taking vacations to the island, there are two major groups. Couples and families. Couples will have more income available to spend, compared to families, but having a decent number of families arrive on the island will still bring economic benefits to the island. 
+
+For couples, a majority of them are arrving by air travel, if they are vacationing, and prefer a private house of beach house, which leads me to believe adding some private beach houses, or a group of beach houses as a private resort a bit further away from the airport along with some advertising of said private resort will lead to more people tempted to visit. For those that are on their honeymoons, adding amenities that will help them plan their weddings at the island, will lead to a large increase in tourism on the island. There is a split on the couples who visit the island who want to see local attractions at the island, so with a boost to wedding venue items, hopefully that would assist with an increase of tourism there. 
 
 
-
-
-Based on the Survey results, a majority of people going to the island are family vacations or regular vacations. If the Island is foucsing on larger annual income groups coming to the island, focusing on couples going to the island, and honeymoon or wedding services, on a larger portion of the island, with some amenities for family vacations. A fair number of people coming back for repeat vacations are higher income couples not on a family vacation. A group of private condos or private houses on the island or on an island close by, simlar to Mo'orea, which is 12 nautical miles away would provide a fair amount of tourism to the region. Between the private condos, which would increase the odds of couples vacationing to return.
-
-
-
-
-
-
-
-
-
-
-
-
+For families visiting the island, a majority of them wanted to see attractions on or around the island, and a majority of them came via cruise ships. Working with cruse ship companies to have families spend a couple days there, plus around the region would be a large economic boon to the economies of all the islands in the region. The issue being that families dont spend as much time on the island. If families are only spending 3-5 days on the island, and couples are spending 7-16 days on the island, the daily economic impact is larger for couples. There is a fallacy in only investing in couples only amenities though. Having family amenities would help bring couples back after they had families to the island as well. 
