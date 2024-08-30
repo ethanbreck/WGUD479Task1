@@ -15,7 +15,7 @@ I need to look at usability testing content to ensure that I have tasks availabl
 
 ## Persona Information:
 
-User Persona -> [User Information](PERSONA.md)
+User Persona -> [User Information](UserPersona.md)
 
 For those taking vacations to the island, there are two major groups. Couples and families. Couples will have more income available to spend, compared to families, but having a decent number of families arrive on the island will still bring economic benefits to the island. 
 
