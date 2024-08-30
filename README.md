@@ -13,7 +13,10 @@ This project page is to fufill part of task 1 for D479
 
 I need to look at usability testing content to ensure that I have tasks available for people to test for task 2 as well.
 
-## Persona Profile:
+## Persona Information:
+
+User Persona -> [User Information](PERSONA.md)
+
 For those taking vacations to the island, there are two major groups. Couples and families. Couples will have more income available to spend, compared to families, but having a decent number of families arrive on the island will still bring economic benefits to the island. 
 
 For couples, a majority of them are arrving by air travel, if they are vacationing, and prefer a private house of beach house, which leads me to believe adding some private beach houses, or a group of beach houses as a private resort a bit further away from the airport along with some advertising of said private resort will lead to more people tempted to visit. For those that are on their honeymoons, adding amenities that will help them plan their weddings at the island, will lead to a large increase in tourism on the island. There is a split on the couples who visit the island who want to see local attractions at the island, so with a boost to wedding venue items, hopefully that would assist with an increase of tourism there. 
