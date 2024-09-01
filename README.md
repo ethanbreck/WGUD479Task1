@@ -26,8 +26,17 @@ For families visiting the island, a majority of them wanted to see attractions o
 
 ## Wireframe diagram:
 
-Most of the pages will follow the same sort of wireframe design. This design: ![basicpage](/Wireframes/Basic.png?raw=true).
+Most of the pages will follow the same sort of wireframe design. This design: 
 
-The FAQ page will look similar to this: ![faq](/Wireframes/FAQ.png?raw=true)
+<p align="center">
+  <img src="https://github.com/ethanbreck/WGUD479Task1/blob/master/Wireframes/Basic.png?raw=true" alt="Basic Page"/>.
 
-The site will flow similar to this: ![flowchart](/Wireframes/flowchart.png?raw=true)    
+The FAQ page will look similar to this: 
+
+<p align="center">
+  <img src="https://github.com/ethanbreck/WGUD479Task1/blob/master/Wireframes/FAQ.png?raw=true" alt="FAQ page"/>.
+
+The site will flow similar to this: 
+
+<p align="center">
+  <img src="https://github.com/ethanbreck/WGUD479Task1/blob/master/Wireframes/flowchart.png?raw=true" alt="Flowchart of pages"/>.
