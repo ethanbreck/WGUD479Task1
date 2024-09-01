@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="FAQ.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.84466118"
+     inkscape:cx="1565.1246"
+     inkscape:cy="986.19425"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <rect
+       x="55.389258"
+       y="138.47546"
+       width="667.29327"
+       height="1116.3777"
+       id="rect4" />
+    <rect
+       x="1115.3603"
+       y="752.09983"
+       width="1234.1579"
+       height="492.06121"
+       id="rect30" />
+    <rect
+       x="134.45665"
+       y="129.19844"
+       width="949.56251"
+       height="536.55482"
+       id="rect29" />
+    <rect
+       x="96.303407"
+       y="128.7961"
+       width="1037.9162"
+       height="565.38018"
+       id="rect12" />
+    <rect
+       x="352.08305"
+       y="930.77825"
+       width="84.081095"
+       height="37.809024"
+       id="rect11" />
+    <rect
+       x="55.389259"
+       y="138.47546"
+       width="667.29327"
+       height="1116.3777"
+       id="rect4-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2.00003;stroke-dasharray:none"
+       id="rect1"
+       width="2558"
+       height="1438"
+       x="1.0000131"
+       y="1.0000131"
+       inkscape:label="rect1" />
+    <rect
+       style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       id="rect2"
+       width="2560"
+       height="75"
+       x="1"
+       y="1" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       x="23.88162"
+       y="44.188"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="23.88162"
+         y="44.188">Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       x="137.83846"
+       y="47.560001"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="137.83846"
+         y="47.560001">The island of Taniti</tspan></text>
+    <g
+       id="g7">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3"
+         width="184.39502"
+         height="75"
+         x="432.01437"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="487.94791"
+         y="47.080002"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="487.94791"
+           y="47.080002">HOME</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(1110.1929,-1.6193595)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-0"
+         width="184.39502"
+         height="75"
+         x="1194.9659"
+         y="2.6193595" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="1263.9435"
+         y="48.69936"
+         id="text4-9"><tspan
+           sodipodi:role="line"
+           id="tspan4-3"
+           x="1263.9435"
+           y="48.69936">FAQ</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(379.89684)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-5"
+         width="184.39502"
+         height="75"
+         x="676.49902"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="694.99255"
+         y="47.104"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           x="694.99255"
+           y="47.104">TRAVEL HERE</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(741.75904)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-5-2"
+         width="184.39502"
+         height="75"
+         x="939.01831"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="1031.7559"
+         y="32.5"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           x="1031.7559"
+           y="32.5">Local</tspan><tspan
+           sodipodi:role="line"
+           x="1031.7559"
+           y="62.5"
+           id="tspan7">Attractions</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:0.8;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;white-space:pre;shape-inside:url(#rect4);fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+       x="0"
+       y="0"
+       transform="translate(0,29.810999)"><tspan
+         x="321.0157"
+         y="157.91147"
+         id="tspan48">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="181.37811"
+         id="tspan49">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="204.84475"
+         id="tspan50">
+</tspan><tspan
+         x="321.0157"
+         y="228.3114"
+         id="tspan51">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="251.77804"
+         id="tspan52">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="275.24469"
+         id="tspan53">
+</tspan><tspan
+         x="321.0157"
+         y="298.71133"
+         id="tspan54">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="322.17798"
+         id="tspan55">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="345.64462"
+         id="tspan56">
+</tspan><tspan
+         x="321.0157"
+         y="369.11126"
+         id="tspan57">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="392.57791"
+         id="tspan58">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="416.04455"
+         id="tspan59">
+</tspan><tspan
+         x="321.0157"
+         y="439.5112"
+         id="tspan60">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="462.97784"
+         id="tspan61">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="486.44449"
+         id="tspan62">
+</tspan><tspan
+         x="321.0157"
+         y="509.91113"
+         id="tspan63">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="533.37777"
+         id="tspan64">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="556.84439"
+         id="tspan65">
+</tspan><tspan
+         x="321.0157"
+         y="580.311"
+         id="tspan66">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="603.77762"
+         id="tspan67">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="627.24423"
+         id="tspan68">
+</tspan><tspan
+         x="321.0157"
+         y="650.71084"
+         id="tspan69">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="674.17746"
+         id="tspan70">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="697.64407"
+         id="tspan71">
+</tspan><tspan
+         x="321.0157"
+         y="721.11068"
+         id="tspan72">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="744.5773"
+         id="tspan73">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="768.04391"
+         id="tspan74">
+</tspan><tspan
+         x="321.0157"
+         y="791.51053"
+         id="tspan75">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="814.97714"
+         id="tspan76">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="838.44375"
+         id="tspan77">
+</tspan><tspan
+         x="321.0157"
+         y="861.91037"
+         id="tspan78">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="885.37698"
+         id="tspan79">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="908.84359"
+         id="tspan80">
+</tspan><tspan
+         x="321.0157"
+         y="932.31021"
+         id="tspan81">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="955.77682"
+         id="tspan82">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="979.24344"
+         id="tspan83">
+</tspan><tspan
+         x="321.0157"
+         y="1002.71"
+         id="tspan84">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1026.1767"
+         id="tspan85">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1049.6433"
+         id="tspan86">
+</tspan><tspan
+         x="321.0157"
+         y="1073.11"
+         id="tspan87">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1096.5766"
+         id="tspan88">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1120.0433"
+         id="tspan89">
+</tspan><tspan
+         x="321.0157"
+         y="1143.51"
+         id="tspan90">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1166.9767"
+         id="tspan91">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1190.4433"
+         id="tspan92">
+</tspan><tspan
+         x="321.0157"
+         y="1213.91"
+         id="tspan93">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1237.3767"
+         id="tspan94">-Answer, Answer, Answer</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:0.8;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;white-space:pre;shape-inside:url(#rect4-6);display:inline;fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+       x="0"
+       y="0"
+       transform="translate(906.0331,29.810999)"><tspan
+         x="321.0157"
+         y="157.91147"
+         id="tspan95">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="181.37811"
+         id="tspan96">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="204.84475"
+         id="tspan97">
+</tspan><tspan
+         x="321.0157"
+         y="228.3114"
+         id="tspan98">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="251.77804"
+         id="tspan99">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="275.24469"
+         id="tspan100">
+</tspan><tspan
+         x="321.0157"
+         y="298.71133"
+         id="tspan101">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="322.17798"
+         id="tspan102">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="345.64462"
+         id="tspan103">
+</tspan><tspan
+         x="321.0157"
+         y="369.11126"
+         id="tspan104">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="392.57791"
+         id="tspan105">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="416.04455"
+         id="tspan106">
+</tspan><tspan
+         x="321.0157"
+         y="439.5112"
+         id="tspan107">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="462.97784"
+         id="tspan108">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="486.44449"
+         id="tspan109">
+</tspan><tspan
+         x="321.0157"
+         y="509.91113"
+         id="tspan110">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="533.37777"
+         id="tspan111">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="556.84439"
+         id="tspan112">
+</tspan><tspan
+         x="321.0157"
+         y="580.311"
+         id="tspan113">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="603.77762"
+         id="tspan114">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="627.24423"
+         id="tspan115">
+</tspan><tspan
+         x="321.0157"
+         y="650.71084"
+         id="tspan116">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="674.17746"
+         id="tspan117">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="697.64407"
+         id="tspan118">
+</tspan><tspan
+         x="321.0157"
+         y="721.11068"
+         id="tspan119">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="744.5773"
+         id="tspan120">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="768.04391"
+         id="tspan121">
+</tspan><tspan
+         x="321.0157"
+         y="791.51053"
+         id="tspan122">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="814.97714"
+         id="tspan123">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="838.44375"
+         id="tspan124">
+</tspan><tspan
+         x="321.0157"
+         y="861.91037"
+         id="tspan125">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="885.37698"
+         id="tspan126">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="908.84359"
+         id="tspan127">
+</tspan><tspan
+         x="321.0157"
+         y="932.31021"
+         id="tspan128">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="955.77682"
+         id="tspan129">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="979.24344"
+         id="tspan130">
+</tspan><tspan
+         x="321.0157"
+         y="1002.71"
+         id="tspan131">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1026.1767"
+         id="tspan132">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1049.6433"
+         id="tspan133">
+</tspan><tspan
+         x="321.0157"
+         y="1073.11"
+         id="tspan134">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1096.5766"
+         id="tspan135">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1120.0433"
+         id="tspan136">
+</tspan><tspan
+         x="321.0157"
+         y="1143.51"
+         id="tspan137">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1166.9767"
+         id="tspan138">-Answer, Answer, Answer
+</tspan><tspan
+         x="389.03516"
+         y="1190.4433"
+         id="tspan139">
+</tspan><tspan
+         x="321.0157"
+         y="1213.91"
+         id="tspan140">- Question?
+</tspan><tspan
+         x="235.42205"
+         y="1237.3767"
+         id="tspan141">-Answer, Answer, Answer</tspan></text>
+    <g
+       id="g11"
+       transform="translate(111.1029,19.28552)">
+      <rect
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         id="rect8"
+         width="564.68646"
+         height="1142.7751"
+         x="1808.2001"
+         y="129.96613" />
+      <path
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         d="M 1807.9411,131.55238 2371.4945,1274.2073 2369.1822,127.2191 1808.8614,1271.5343 Z"
+         id="path8" />
+    </g>
+  </g>
+</svg>

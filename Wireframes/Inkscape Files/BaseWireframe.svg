@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="BaseWireframe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.84466118"
+     inkscape:cx="1849.2622"
+     inkscape:cy="986.19425"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <rect
+       x="1115.3603"
+       y="752.09983"
+       width="1234.1579"
+       height="492.06121"
+       id="rect30" />
+    <rect
+       x="134.45665"
+       y="129.19844"
+       width="949.56251"
+       height="536.55482"
+       id="rect29" />
+    <rect
+       x="96.303407"
+       y="128.7961"
+       width="1037.9162"
+       height="565.38018"
+       id="rect12" />
+    <rect
+       x="352.08305"
+       y="930.77825"
+       width="84.081095"
+       height="37.809024"
+       id="rect11" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2.00003;stroke-dasharray:none"
+       id="rect1"
+       width="2558"
+       height="1438"
+       x="1.0000131"
+       y="1.0000131"
+       inkscape:label="rect1" />
+    <rect
+       style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       id="rect2"
+       width="2560"
+       height="75"
+       x="1"
+       y="1" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       x="23.88162"
+       y="44.188"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="23.88162"
+         y="44.188">Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+       x="137.83846"
+       y="47.560001"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="137.83846"
+         y="47.560001">The island of Taniti</tspan></text>
+    <g
+       id="g7">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3"
+         width="184.39502"
+         height="75"
+         x="432.01437"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="487.94791"
+         y="47.080002"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="487.94791"
+           y="47.080002">HOME</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(1110.1929,-1.6193595)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-0"
+         width="184.39502"
+         height="75"
+         x="1194.9659"
+         y="2.6193595" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="1263.9435"
+         y="48.69936"
+         id="text4-9"><tspan
+           sodipodi:role="line"
+           id="tspan4-3"
+           x="1263.9435"
+           y="48.69936">FAQ</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(379.89684)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-5"
+         width="184.39502"
+         height="75"
+         x="676.49902"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="694.99255"
+         y="47.104"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           x="694.99255"
+           y="47.104">TRAVEL HERE</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(741.75904)">
+      <rect
+         style="fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         id="rect3-5-2"
+         width="184.39502"
+         height="75"
+         x="939.01831"
+         y="1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#765425;fill-opacity:0.487152;stroke:#000000;stroke-width:2"
+         x="1031.7559"
+         y="32.5"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           x="1031.7559"
+           y="32.5">Local</tspan><tspan
+           sodipodi:role="line"
+           x="1031.7559"
+           y="62.5"
+           id="tspan7">Attractions</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g11"
+       transform="translate(116.14206,-74.928701)">
+      <rect
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         id="rect10"
+         width="771.72003"
+         height="342.52124"
+         x="1596.1379"
+         y="196.04643" />
+      <path
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         d="m 1597.7076,197.10594 770.3008,342.74688 -767.5735,0.67038 766.2949,-344.5945 z"
+         id="path10" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         x="1982.538"
+         y="576.72986"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="1982.538"
+           y="576.72986">Image of the Island</tspan></text>
+    </g>
+    <g
+       id="g11-2"
+       transform="translate(-1520.1379,824.07167)">
+      <rect
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         id="rect10-6"
+         width="771.72003"
+         height="342.52124"
+         x="1596.1379"
+         y="196.04643" />
+      <path
+         style="fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         d="m 1597.7076,197.10594 770.3008,342.74688 -767.5735,0.67038 766.2949,-344.5945 z"
+         id="path10-1" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+         x="411.92004"
+         y="1035.3956"
+         id="text11"
+         transform="translate(1570.1379,-874.0713)"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="411.92004"
+           y="1035.3956">Image of local attractions</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text12"
+       style="fill:#000000;stroke-width:2;fill-opacity:0.23378015;stroke:#000000;font-size:24px;text-align:center;white-space:pre;shape-inside:url(#rect12)" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;line-height:0.8;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2.24285"
+       x="1790.3866"
+       y="205.40187"
+       id="text13"
+       transform="scale(0.5510397,1.8147513)"><tspan
+         sodipodi:role="line"
+         x="1790.3866"
+         y="205.40187"
+         id="tspan17"
+         style="font-size:20px;line-height:0.8;stroke-width:2.24285" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.1749px;line-height:0.8;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:3.01749"
+       x="2881.5994"
+       y="54.318642"
+       id="text21"
+       transform="scale(0.26585762,3.7614118)"><tspan
+         sodipodi:role="line"
+         x="2881.5994"
+         y="54.318642"
+         id="tspan25"
+         style="stroke-width:3.01749" /></text>
+    <text
+       xml:space="preserve"
+       id="text29"
+       style="font-size:24px;line-height:0.8;text-align:center;white-space:pre;shape-inside:url(#rect29);fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+       transform="translate(0,54.38883)"><tspan
+         x="142.52242"
+         y="145.63622"
+         id="tspan1">Lorem ipsum odor amet, consectetuer adipiscing elit. Cursus malesuada per curae; </tspan><tspan
+         x="180.95846"
+         y="164.83622"
+         id="tspan8">ex nulla euismod. Tortor praesent maecenas facilisi ex; tempor eu. Tincidunt </tspan><tspan
+         x="146.56642"
+         y="184.03622"
+         id="tspan9">elementum cras consequat ex eros rutrum morbi pharetra praesent. Ligula eu nec </tspan><tspan
+         x="169.65442"
+         y="203.23621"
+         id="tspan12">est varius vel, inceptos ullamcorper. Commodo porta iaculis non non est netus </tspan><tspan
+         x="495.58632"
+         y="222.43621"
+         id="tspan13">morbi fusce sagittis.
+</tspan><tspan
+         x="609.23828"
+         y="241.63621"
+         id="tspan14">
+</tspan><tspan
+         x="143.49444"
+         y="260.8362"
+         id="tspan15">Varius maecenas taciti quis tempus tempor morbi. Ornare molestie leo fermentum </tspan><tspan
+         x="135.6944"
+         y="280.03622"
+         id="tspan16">nisl laoreet conubia laoreet. Sapien accumsan gravida morbi purus nec urna? Facilisi </tspan><tspan
+         x="158.71041"
+         y="299.23623"
+         id="tspan18">dolor auctor iaculis quis lobortis vivamus etiam. Conubia tristique id facilisi class </tspan><tspan
+         x="174.01043"
+         y="318.43624"
+         id="tspan19">euismod varius. Rutrum auctor sodales dui ultricies scelerisque egestas proin </tspan><tspan
+         x="283.61837"
+         y="337.63625"
+         id="tspan20">varius. Tempor neque nunc vulputate ullamcorper cursus.
+</tspan><tspan
+         x="609.23828"
+         y="356.83627"
+         id="tspan21">
+</tspan><tspan
+         x="143.61444"
+         y="376.03628"
+         id="tspan22">Euismod scelerisque aliquam aptent pretium etiam tincidunt semper. Non id luctus </tspan><tspan
+         x="151.54636"
+         y="395.23629"
+         id="tspan23">ligula magnis dapibus curabitur arcu. Senectus lacus hac dignissim cras vitae nisi. </tspan><tspan
+         x="150.89838"
+         y="414.4363"
+         id="tspan24">Volutpat aliquam hendrerit sagittis mattis finibus eros curabitur semper faucibus. </tspan><tspan
+         x="149.47043"
+         y="433.63631"
+         id="tspan26">Congue ut fringilla tortor eros etiam lectus. Aptent tellus dis odio curae augue dui </tspan><tspan
+         x="518.66235"
+         y="452.83633"
+         id="tspan27">libero netus leo.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text30"
+       style="font-size:24px;line-height:0.8;text-align:center;white-space:pre;shape-inside:url(#rect30);fill:#000000;fill-opacity:0.23378;stroke:#000000;stroke-width:2"
+       transform="translate(141.81765,340.6981)"><tspan
+         x="1125.9107"
+         y="768.53661"
+         id="tspan29"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152"
+           id="tspan28">Lorem ipsum odor amet, consectetuer adipiscing elit. Cursus malesuada per curae; ex nulla euismod. Tortor </tspan></tspan><tspan
+         x="1163.7827"
+         y="787.73663"
+         id="tspan32"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152"
+           id="tspan31">praesent maecenas facilisi ex; tempor eu. Tincidunt elementum cras consequat ex eros rutrum morbi </tspan></tspan><tspan
+         x="1142.0506"
+         y="806.93664"
+         id="tspan33">pharetra praesent. Ligula eu nec est varius vel, inceptos ullamcorper. Commodo porta iaculis non non est </tspan><tspan
+         x="1583.9865"
+         y="826.13665"
+         id="tspan34">netus morbi fusce sagittis.
+</tspan><tspan
+         x="1732.4385"
+         y="845.33666"
+         id="tspan35">
+</tspan><tspan
+         x="1153.2467"
+         y="864.53667"
+         id="tspan37"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
+           id="tspan36">Varius maecenas taciti quis tempus tempor morbi. Ornare molestie leo fermentum nisl laoreet conubia </tspan></tspan><tspan
+         x="1139.0986"
+         y="883.73669"
+         id="tspan38">laoreet. Sapien accumsan gravida morbi purus nec urna? Facilisi dolor auctor iaculis quis lobortis vivamus </tspan><tspan
+         x="1156.3907"
+         y="902.9367"
+         id="tspan39">etiam. Conubia tristique id facilisi class euismod varius. Rutrum auctor sodales dui ultricies scelerisque </tspan><tspan
+         x="1327.2346"
+         y="922.13671"
+         id="tspan40">egestas proin varius. Tempor neque nunc vulputate ullamcorper cursus.
+</tspan><tspan
+         x="1732.4385"
+         y="941.33672"
+         id="tspan41">
+</tspan><tspan
+         x="1139.9146"
+         y="960.53674"
+         id="tspan43"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
+           id="tspan42">Euismod scelerisque aliquam aptent pretium etiam tincidunt semper. Non id luctus ligula magnis dapibus </tspan></tspan><tspan
+         x="1122.6946"
+         y="979.73675"
+         id="tspan45"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152 0 -0.00010681152"
+           id="tspan44">curabitur arcu. Senectus lacus hac dignissim cras vitae nisi. Volutpat aliquam hendrerit sagittis mattis finibus </tspan></tspan><tspan
+         x="1150.0067"
+         y="998.93676"
+         id="tspan46">eros curabitur semper faucibus. Congue ut fringilla tortor eros etiam lectus. Aptent tellus dis odio curae </tspan><tspan
+         x="1582.0185"
+         y="1018.1368"
+         id="tspan47">augue dui libero netus leo.</tspan></text>
+  </g>
+</svg>
