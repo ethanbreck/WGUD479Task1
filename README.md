@@ -23,3 +23,11 @@ For couples, a majority of them are arrving by air travel, if they are vacationi
 
 
 For families visiting the island, a majority of them wanted to see attractions on or around the island, and a majority of them came via cruise ships. Working with cruse ship companies to have families spend a couple days there, plus around the region would be a large economic boon to the economies of all the islands in the region. The issue being that families dont spend as much time on the island. If families are only spending 3-5 days on the island, and couples are spending 7-16 days on the island, the daily economic impact is larger for couples. There is a fallacy in only investing in couples only amenities though. Having family amenities would help bring couples back after they had families to the island as well. 
+
+## Wireframe diagram:
+
+Most of the pages will follow the same sort of wireframe design. This design: ![basicpage](/Wireframes/Basic.png?raw=true).
+
+The FAQ page will look similar to this: ![faq](/Wireframes/FAQ.png?raw=true)
+
+The site will flow similar to this: ![flowchart](/Wireframes/flowchart.png?raw=true)
