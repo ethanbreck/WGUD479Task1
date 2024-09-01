@@ -30,4 +30,4 @@ Most of the pages will follow the same sort of wireframe design. This design: ![
 
 The FAQ page will look similar to this: ![faq](/Wireframes/FAQ.png?raw=true)
 
-The site will flow similar to this: ![flowchart](/Wireframes/flowchart.png?raw=true)
+The site will flow similar to this: ![flowchart](/Wireframes/flowchart.png?raw=true)    
