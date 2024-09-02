@@ -65,6 +65,6 @@ Josh:
 - Qualitiative feedback - The reference photos attached were blurry
     - Actionable - upload the higher resolution images, add caching and image sizing based on device
 - Qualitiative feedback - The color scheme blends together too much
-    -Actionable - change color scheme
+    - Actionable - change color scheme
 - Qualitative Feedback: The website doesn’t offer that much information about the services provided.
     - Actionable - ensure that information on each page has a decent amount of information for each of the pages
