@@ -68,3 +68,6 @@ Josh:
     - Actionable - change color scheme
 - Qualitative Feedback: The website doesn’t offer that much information about the services provided.
     - Actionable - ensure that information on each page has a decent amount of information for each of the pages
+
+
+Link to prototype: [Prototype](index.html)
