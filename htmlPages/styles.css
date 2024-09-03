@@ -10,7 +10,6 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-    padding: 20px;
 }
 
 header {
@@ -98,4 +97,43 @@ footer {
     color: #fff;
     padding: 20px 0;
     text-align: center;
+}
+
+form {
+    padding:10px;
+    padding-bottom: 20px;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
 }
