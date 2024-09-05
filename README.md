@@ -13,9 +13,9 @@ This project page is to fufill part of task 1 for D479
 
 I need to look at usability testing content to ensure that I have tasks available for people to test for task 2 as well.
 
-## Section B: Persona Information:
+## Section B: Persona overview: 
 
-User Persona -> [User Information](UserPersona.md)
+Attached in a seperate file, is a specific user persona. Below is a general overview of what the island nation might want to consider. 
 
 For those taking vacations to the island, there are two major groups. Couples and families. Couples will have more income available to spend, compared to families, but having a decent number of families arrive on the island will still bring economic benefits to the island. 
 
@@ -70,4 +70,29 @@ Josh:
     - Actionable - ensure that information on each page has a decent amount of information for each of the pages
 
 
-Link to prototype: [Prototype](index.html)
+
+Part E is linked via a github page prototype. See attached link in submission area.
+
+## Part F Object Usability test:
+
+Here are the questions I'd ask users testing the functionality and content of the island.
+
+- What kind of currency is used on the island?
+- What kind of accomodations for travellers are available on the island?
+- Are there other islands close by? How would you travel to other islands close by.
+- What kind of food is available?
+- What cultural items can be seen on the island region?
+
+## Part G: Sources
+Sources are linked on the website, but are also linked here in APA Rev. 7 format. 
+
+- awcadwel. (2021, February 15). [Homemade] Fresh Tagliatelle, Butter Poached Lobster, Morel-Lobster Cream Sauce [Reddit Post]. R/Food. www.reddit.com/r/food/comments/lkot87/homemade_fresh_tagliatelle_butter_poached_lobster/
+- Chensiyuan. (2006, May 14). File:Surf and turf (1).JPG - Wikipedia. https://commons.wikimedia.org/wiki/File:Surf_and_turf_(1).JPG
+- dancing Tahitian—Main. (2020, November 3). https://web.archive.org/web/20201103201239/http://dancingtahitan.weebly.com/
+- mushy--. (2020, November 3). Another Lake Superior shot from Marquette, MI 😌 [Reddit Post]. R/GreatLakesPics. www.reddit.com/r/GreatLakesPics/comments/jn0tj8/another_lake_superior_shot_from_marquette_mi/
+- Onionman775. (2024, September 1). Spent the last week camping on an island in Maine. Grilled local seafood every night. [Reddit Post]. R/Seafood. www.reddit.com/r/Seafood/comments/1f6evyv/spent_the_last_week_camping_on_an_island_in_maine/
+- OReilly, P. (1977). La danse à Tahiti. Nouvelles éditions latines.
+- Piacquadio, A. (n.d.). Man Holding Teacup Infront of Laptop on Top of Table Inside the Room. Pexels. Retrieved September 2, 2024, from https://www.pexels.com/photo/man-holding-teacup-infront-of-laptop-on-top-of-table-inside-the-room-925786/
+- Rivaud, V. (n.d.). White Boats on Body of Water. Pexels. Retrieved September 2, 2024, from https://www.pexels.com/photo/white-boats-on-body-of-water-2265876/
+- Skipperrutts. (2020, March 28). [Homemade] Spicy Miso Ramen with Duck [Reddit Post]. R/Food. www.reddit.com/r/food/comments/fqjug9/homemade_spicy_miso_ramen_with_duck/
+- Straight_Spring9815. (2024, August 27). I do hvac and a customer caught wind its my birthday coming up. [Reddit Post]. R/Seafood. www.reddit.com/r/Seafood/comments/1f2lcn4/i_do_hvac_and_a_customer_caught_wind_its_my/

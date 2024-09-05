@@ -12,8 +12,6 @@
 <p align="right">
   <img src="https://github.com/ethanbreck/WGUD479Task1/blob/master/images/TheManTheMyth.jpg.jpg?raw=true" alt="The Man, The Myth, The legend"/>.
 
-
-
 Summary: Brett and his significant other wants to take a break from their daily life. He's interested in immersing in the island life, and wants to know what the island has to offer. 
 
 ## NEEDS
